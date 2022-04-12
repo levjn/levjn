@@ -158,3 +158,6 @@ function checkForWinner()
     }
   
 }
+function reset(){ 
+
+}
